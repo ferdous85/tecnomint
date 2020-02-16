@@ -1480,7 +1480,7 @@ p.error {
 }
 .project-details {
   float: left;
-  padding: 100px 70px 100px 100px;
+  padding: 20px 70px 100px 100px;
   width: 50%;
 }
 .project-details > h5 {
