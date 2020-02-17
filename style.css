@@ -330,7 +330,7 @@
 }
 .image-box > a {
   color: #fff;
-  font-size: 70px;
+  font-size: 30px;
   left: 0;
   opacity: 0;
   position: absolute;
@@ -1477,10 +1477,11 @@ p.error {
   font-size: 24px;
   font-weight: 700;
   margin: 0;
+  color: #fff;
 }
 .project-details {
   float: left;
-  padding: 100px 70px 100px 100px;
+  padding: 20px 70px 100px 100px;
   width: 50%;
 }
 .project-details > h5 {
