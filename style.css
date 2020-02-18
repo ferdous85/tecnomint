@@ -94,7 +94,7 @@
   margin-bottom: 13px;
   overflow: hidden;
 }
-.icon-titel i {
+/*.icon-titel i {
   color: #666666;
   float: left;
   font-size: 24px;
@@ -119,20 +119,27 @@
   width: 100%;
   z-index:-9999;
   transition:.3s;
+}*/
+
+.sub-headline{
+    color: #45D325;
+    display: block;
+    font-weight: 800;
+    overflow: hidden; 
 }
-.icon-titel h6 {
+
+.icon-titel h4 {
+  color: #45D325;
   display: block;
-  font-weight: 700;
+  font-weight: 800;
   margin: 0;
   overflow: hidden;
-    padding-left: 35px;
-    padding-top: 20px;
+  
   text-transform: uppercase;
   transition: all 0.3s ease 0s;
 }
-.specialty-single:hover .icon-titel h6,.ourservice-single:hover .srvc-content h6{color:#14b1bb;}
-.specialty-single:hover .icon-titel i,.ourservice-single:hover .srvc-icon a i{color:#fff;}
-.specialty-single:hover .icon-titel i::after,.social-rotate ul li a:hover,.ourservice-single:hover .srvc-icon a{background:#14b1bb;border-color:#14b1bb;}
+.specialty-single:hover .icon-titel h4,.ourservice-single:hover .srvc-content h4{color:#14b1bb;}
+
 .specialty-image {
   margin-top: 10%;
   padding-left: 40px;
