@@ -61,22 +61,7 @@
         nextText: '<i class="fa fa-angle-right nivo-next-icon"></i>'
     });
 	
-	/*---------------------------------
-		03. Client Testimonial active
-	-----------------------------------*/
-	$(".client-testimonial-owl").owlCarousel({
-      autoPlay: false,
-	  slideSpeed:0,
-	  effect: 'random',
-	  pagination:false,
-	  navigation:false,  
-      items : 1,
-	  navigationText:["<i class='fas fa-angle-left'></i>","<i class='fas fa-angle-right'></i>"],
-      itemsDesktop : [1199,1],
-	  itemsDesktopSmall : [980,1],
-	  itemsTablet: [768,1],
-	  itemsMobile : [479,1],
-	});
+	
 	
 	/*---------------------------------
 		04. Brand Curosel Active

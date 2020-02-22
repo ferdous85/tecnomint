@@ -596,7 +596,7 @@
   margin-bottom: 45px;
 }
 .image-box > a {
-  font-size: 38px;
+  font-size: 8px;
 }
 .single-blog:hover .blog-img a::before {
   transform: translateY(25%);
