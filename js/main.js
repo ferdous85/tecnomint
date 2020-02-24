@@ -95,22 +95,9 @@
 	  itemsMobile : [479,1],
 	});
 	
-	/*---------------------------------
-		06. Magnific Popup For Video
-	-----------------------------------*/
-	$('.popup-youtube').magnificPopup({
-		type: 'iframe'
-	});
 	
-	/*---------------------------------
-		07. Magnific Popup For Image
-	-----------------------------------*/
-	$('.venobox').magnificPopup({
-	  type: 'image',
-	  gallery: {
-			  enabled: true, // set to true to enable gallery
-			}
-	});
+	
+
 
 	/*--------------------------------
 		08. Portfolio Isotop active 

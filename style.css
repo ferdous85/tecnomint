@@ -40,6 +40,8 @@
 
 
 
+
+
 .icon-titel {
   display: block;
   margin-bottom: 13px;
@@ -1809,6 +1811,8 @@ img{
     padding: 20px 40px 40px 40px;
 }
 
+
+
 .profile-card .profile-body .author-img{
     margin-top: -100px;
     margin-bottom: 20px;
@@ -3370,6 +3374,14 @@ figure.effect-duke:hover p {
 
 .icon-titel h5 {
     text-transform: uppercase;
+}
+
+.icon-six h5 {
+    margin-top: 30px;
+}
+
+.icon-one h5 {
+    margin-top: 30px;
 }
   
 
